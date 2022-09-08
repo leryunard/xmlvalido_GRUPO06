@@ -1,0 +1,151 @@
+*{
+    color: #022B3A;
+}
+equipos{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #E3EBEE;
+}
+equipos[id]::before{
+    content: attr(id);
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin: auto;
+    font-size: 50px;
+    margin-bottom: 12px;
+}
+grupo::before{
+    content: "Grupo: "attr(grupo);
+    font-weight: bold;
+}
+grupo{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #E1E5F2;
+    padding: 15px 20px;
+    border-radius: 15px;
+}
+
+equipo{
+    padding: 15px 20px;
+    background-color: #E9ECF6;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 12px;
+    border-radius: 15px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+facultad{
+    display: grid;
+}
+
+numerogrupo::before{
+    font-weight: bold;
+    content: "# Grupo: ";
+}
+tema::before{
+    font-weight: bold;
+    content: "Tema: ";
+}
+actividad::before{
+    font-weight: bold;
+    content: "Actividad: ";
+}
+porcentaje::before{
+    font-weight: bold;
+    content: "Porcentaje: ";
+}
+facultad::before{
+    font-weight: bold;
+    content: " - Facultad: ";
+}
+facultad nombre::before{
+    content: "Nombre Fac: ";
+}
+facultad nombre{
+    margin-left: 40px;
+}
+facultad codigo::before{
+    content: "Codigo Fac: ";
+}
+facultad codigo{
+    margin-left: 40px;
+}
+personas::before{
+    content: "Integrantes: ";
+    font-weight: bold;
+}
+personas{
+    display: grid;
+}
+
+integrante{
+    margin-left: 50px;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    width: 100%;
+}
+coordinador{
+    margin-left: 40px;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    width: 100%;
+}
+
+profesor::before{
+    content: "Nombre Profesor";
+    font-weight: bold;
+}
+materia::before{
+    content: "Materia";
+    font-weight: bold;
+}
+
+grupo[grupo="GT"] equipo:nth-child(2n) {
+    background-color: #E1ECF0;
+  }
+coordinador::before{
+    content: "coordinador: ";
+    font-weight: bold;
+}
+integrante::before{
+    content: "*";
+    font-weight: bold;
+}
+
+grupo[grupo="GT"] {
+    background-color: #C5DCE2;
+}
+
+grupo[grupo="GL"] {
+    background-color: #FAA9B1;
+}
+grupo[grupo="GL"] equipo:nth-child(2n) {
+    background-color: #FAD6DA;
+  }
+
+carrera{
+    display: grid;
+}
+carrera::before{
+    content: "- Carrera: ";
+    font-weight: bold;
+}
+  carrera nombre::before{
+    content: "Nombre Carrera: ";
+    
+}
+carrera nombre{
+    margin-left: 40px;
+}
+carrera codigo{
+    margin-left: 40px;
+}
+carrera codigo::before{
+    content: "Codigo Carrera: ";
+    
+}

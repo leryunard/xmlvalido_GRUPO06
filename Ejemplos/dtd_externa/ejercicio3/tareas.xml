@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tareas.css" ?>
+
+<!DOCTYPE equipos SYSTEM "tareas.dtd">
+<equipos id="Universidad de El Salvador">
+    <grupo grupo="GT">
+        <profesor> Profesor </profesor>
+        <materia> TPI115</materia>
+        <equipo>
+            <numerogrupo>06</numerogrupo>
+            <tema> XML - DTD</tema>
+            <actividad>Guia 32</actividad>
+            <porcentaje>30%</porcentaje>
+            <facultad>
+                <nombre> Ingenieria Y Arquitectura</nombre>
+                <codigo> FIA </codigo>
+            </facultad>
+            <carrera>
+                <nombre> Ingenieria de sistemas informaticos</nombre>
+                <codigo> IAI115 </codigo>
+            </carrera>
+             <personas>
+                <coordinador sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </coordinador>
+                <integrante sexo="F">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+            </personas>
+        </equipo>
+        
+         <equipo>
+            <numerogrupo>06</numerogrupo>
+            <tema> XML - DTD</tema>
+            <actividad>Guia 32</actividad>
+            <porcentaje>30%</porcentaje>
+            <facultad>
+                <nombre> Ingenieria Y Arquitectura</nombre>
+                <codigo> FIA </codigo>
+            </facultad>
+            <carrera>
+                <nombre> Ingenieria de sistemas informaticos</nombre>
+                <codigo> IAI115 </codigo>
+            </carrera>
+             <personas>
+                <coordinador sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </coordinador>
+                <integrante sexo="F">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+            </personas>
+        </equipo>
+    </grupo>
+    
+    <grupo grupo="GD">
+        <profesor> Profesor </profesor>
+        <materia> TPI115</materia>
+        <equipo>
+            <numerogrupo>06</numerogrupo>
+            <tema> XML - DTD</tema>
+            <actividad>Guia 32</actividad>
+            <porcentaje>30%</porcentaje>
+            <facultad>
+                <nombre> Ingenieria Y Arquitectura</nombre>
+                <codigo> FIA </codigo>
+            </facultad>
+            <carrera>
+                <nombre> Ingenieria de sistemas informaticos</nombre>
+                <codigo> IAI115 </codigo>
+            </carrera>
+             <personas>
+                <coordinador sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </coordinador>
+                <integrante sexo="F">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+            </personas>
+        </equipo>
+         <equipo>
+            <numerogrupo>06</numerogrupo>
+            <tema> XML - DTD</tema>
+            <actividad>Guia 32</actividad>
+            <porcentaje>30%</porcentaje>
+            <facultad>
+                <nombre> Ingenieria Y Arquitectura</nombre>
+                <codigo> FIA </codigo>
+            </facultad>
+            <carrera>
+                <nombre> Ingenieria de sistemas informaticos</nombre>
+                <codigo> IAI115 </codigo>
+            </carrera>
+             <personas>
+                <coordinador sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </coordinador>
+                <integrante sexo="F">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+            </personas>
+        </equipo>
+    </grupo>
+
+    <grupo grupo="GL">
+        <profesor> Profesor </profesor>
+        <materia> TPI115</materia>
+        <equipo>
+            <numerogrupo>06</numerogrupo>
+            <tema> XML - DTD</tema>
+            <actividad>Guia 32</actividad>
+            <porcentaje>30%</porcentaje>
+            <facultad>
+                <nombre> Ingenieria Y Arquitectura</nombre>
+                <codigo> FIA </codigo>
+            </facultad>
+            <carrera>
+                <nombre> Ingenieria de sistemas informaticos</nombre>
+                <codigo> IAI115 </codigo>
+            </carrera>
+             <personas>
+                <coordinador sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </coordinador>
+                <integrante sexo="F">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+            </personas>
+        </equipo>
+         <equipo>
+            <numerogrupo>06</numerogrupo>
+            <tema> XML - DTD</tema>
+            <actividad>Guia 32</actividad>
+            <porcentaje>30%</porcentaje>
+            <facultad>
+                <nombre> Ingenieria Y Arquitectura</nombre>
+                <codigo> FIA </codigo>
+            </facultad>
+            <carrera>
+                <nombre> Ingenieria de sistemas informaticos</nombre>
+                <codigo> IAI115 </codigo>
+            </carrera>
+             <personas>
+                <coordinador sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </coordinador>
+                <integrante sexo="F">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> GC18090 </carnet>
+                    <nombre> Miguel </nombre>
+                    <apellido> Galdamez </apellido>
+                </integrante>
+            </personas>
+        </equipo>
+    </grupo>
+</equipos>
