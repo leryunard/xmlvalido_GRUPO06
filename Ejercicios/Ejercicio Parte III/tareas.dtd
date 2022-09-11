@@ -1,0 +1,24 @@
+<!ELEMENT equipos (grupo+)>
+<!ATTLIST equipos id CDATA #IMPLIED>
+<!ELEMENT grupo (profesor,equipo+,materia)>
+<!ATTLIST grupo tipo (GT|GD|GL) #REQUIRED>
+<!ELEMENT equipo (numerogrupo,tema,actividad,porcentaje,facultad,carrera,personas+)>
+<!ELEMENT facultad (nombre,codigo)>
+<!ELEMENT carrera (nombre,codigo)>
+<!ELEMENT personas (integrante+,coordinador?)>
+<!ELEMENT integrante (carnet,nombre,apellido)>
+<!ELEMENT coordinador (carnet,nombre,apellido)>
+<!ATTLIST integrante sexo (M|F) #REQUIRED>
+<!ATTLIST coordinador sexo (M|F) #REQUIRED>
+<!ATTLIST integrante edad CDATA #IMPLIED>
+<!ATTLIST coordinador edad CDATA #IMPLIED>
+<!ATTLIST profesor CDATA>
+<!ATTLIST materia CDATA>
+<!ATTLIST numerogrupo CDATA>
+<!ATTLIST tema CDATA>
+<!ATTLIST actividad CDATA>
+<!ATTLIST porcentaje CDATA>
+<!ATTLIST nombre CDATA>
+<!ATTLIST codigo CDATA>
+<!ATTLIST carnet CDATA>
+<!ATTLIST apellido CDATA>
