@@ -1,11 +1,11 @@
 *{
-    color: #022B3A;
+    color: #ccd6d8;
 }
 equipos{
     display: grid;
     grid-template-columns: auto auto auto;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #E3EBEE;
+    background: #104547;
 }
 equipos[id]::before{
     content: attr(id);
@@ -14,6 +14,8 @@ equipos[id]::before{
     margin: auto;
     font-size: 50px;
     margin-bottom: 12px;
+    color:#a1bcbc ;
+    font-weight: bold;
 }
 grupo::before{
     content: "Grupo: "attr(grupo);
@@ -31,7 +33,7 @@ grupo{
 
 equipo{
     padding: 15px 20px;
-    background-color: #E9ECF6;
+    background-color: #415C60;
     display: grid;
     grid-template-columns: auto auto;
     margin-top: 12px;
@@ -106,7 +108,7 @@ materia::before{
 }
 
 grupo[grupo="GT"] equipo:nth-child(2n) {
-    background-color: #E1ECF0;
+    background-color: #2E4C50;
   }
 coordinador::before{
     content: "coordinador: ";
@@ -118,16 +120,21 @@ integrante::before{
 }
 
 grupo[grupo="GT"] {
-    background-color: #C5DCE2;
+    background-color: #1F494C;
 }
 
 grupo[grupo="GL"] {
-    background-color: #FAA9B1;
+    background-color: #1F494C;
 }
 grupo[grupo="GL"] equipo:nth-child(2n) {
-    background-color: #FAD6DA;
+    background-color: #2E4C50;
   }
-
+  grupo[grupo="GD"] {
+    background-color: #2E4C50;
+}
+grupo[grupo="GD"] equipo:nth-child(2n) {
+    background-color:#1F494C;
+  }
 carrera{
     display: grid;
 }
