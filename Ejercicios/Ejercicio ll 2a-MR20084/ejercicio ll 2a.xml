@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- ejemplodtd1.xml -->
+
+<!DOCTYPE fichero SYSTEM "fichero.dtd">
+
+<fichero>
+ <ficha>
+  <nombre sexo="femenino" edad="17">Angelina</nombre>
+  <apellido>Fernandez</apellido>
+  <direccion>c/Ulises, 36</direccion>
+ </ficha>
+</fichero>
