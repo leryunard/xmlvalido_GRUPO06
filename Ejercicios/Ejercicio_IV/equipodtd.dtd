@@ -1,0 +1,14 @@
+<!ELEMENT equipo (nombre, estadio, pais, main+, ramaDeportiva)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT estadio (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT main (alineacion, cancha)>
+<!ELEMENT alineacion (jugador+) >
+<!ELEMENT cancha  (#PCDATA) >
+<!ELEMENT jugador (numeroCamisa,nombreJugador,posicion+)>
+<!ATTLIST jugador nacionalidad CDATA #IMPLIED>
+<!ATTLIST jugador edad CDATA #IMPLIED>
+<!ELEMENT nombreJugador (#PCDATA)> 
+<!ELEMENT posicion (#PCDATA)>
+<!ELEMENT numeroCamisa (#PCDATA)>
+<!ELEMENT ramaDeportiva (#PCDATA)> 
