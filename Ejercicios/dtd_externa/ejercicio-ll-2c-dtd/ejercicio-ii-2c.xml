@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ejercicio-ii-2c.css"  type="text/css"?>
+<!-- ejemplodtd1.xml -->
+
+<!DOCTYPE fichero SYSTEM "ejercicio-ii-2c.dtd">
+<fichero>
+ <ficha>
+  <nombre sexo="femenino" edad="21">Angelina</nombre>
+  <apellido>Fernandez</apellido>
+  <direccion>c/9 Pte, Q.Cristina, 2</direccion>
+ </ficha>
+</fichero>

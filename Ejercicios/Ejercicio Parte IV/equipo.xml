@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE equipo SYSTEM "equipodtd.dtd">
+<?xml-stylesheet type="text/css" href="estilo.css" ?>
+<equipo>
+    <nombre>SOLO A TRAER FC </nombre>
+    <estadio>EISI STADIUM</estadio>
+    <pais> EL SALVADOR'S LINE UP 🇸🇻 </pais>
+    <main>
+        <alineacion>
+            <jugador nacionalidad ="Salvadoreña"  edad = "21">
+                <numeroCamisa> 7 </numeroCamisa>
+                <nombreJugador> julio mejia </nombreJugador>
+                <posicion>(volante)</posicion>
+            </jugador>
+            <jugador nacionalidad ="Salvadoreña"  edad = "25">
+                <numeroCamisa> 9 </numeroCamisa>
+                <nombreJugador> oswaldo isaias </nombreJugador>
+                <posicion>(delantero)</posicion>
+            </jugador>
+            <jugador nacionalidad ="Salvadoreña"  edad = "19">
+                <numeroCamisa> 4 </numeroCamisa>
+                <nombreJugador> Kevin grande </nombreJugador>
+                <posicion>(defensa)</posicion>
+            </jugador>
+            <jugador nacionalidad ="Salvadoreña"  edad = "21">
+                <numeroCamisa> 1 </numeroCamisa>
+                <nombreJugador>leonardo landaverde </nombreJugador>
+                <posicion>(portero)</posicion>
+            </jugador>
+            <jugador nacionalidad ="Salvadoreña"  edad = "22">
+                <numeroCamisa> 8 </numeroCamisa>
+                <nombreJugador> Carlos Vazquez </nombreJugador>
+                <posicion>(volante)</posicion>
+            </jugador>
+            <jugador nacionalidad ="Salvadoreña"  edad = "25">
+                <numeroCamisa> 99 </numeroCamisa>
+                <nombreJugador> Wilfredo Mancia </nombreJugador>
+                <posicion>(portero)</posicion>
+            </jugador>
+            <jugador nacionalidad ="Salvadoreña"  edad = "30">
+                <numeroCamisa> 5 </numeroCamisa>
+                <nombreJugador> Anderson Nieto </nombreJugador>
+                <posicion>(volante)</posicion>
+            </jugador>
+            <jugador nacionalidad ="Salvadoreña"  edad = "21">
+                <numeroCamisa> 11 </numeroCamisa>
+                <nombreJugador> Carlos Santos </nombreJugador>
+                <posicion>(volante)</posicion>
+            </jugador>
+            <jugador nacionalidad ="Salvadoreña"  edad = "23">
+                <numeroCamisa> 3 </numeroCamisa>
+                <nombreJugador> Miguel Galdamez </nombreJugador>
+                <posicion>(defensa)</posicion>
+            </jugador>
+        </alineacion>
+        <cancha>
+
+        </cancha>
+    </main>
+    <ramaDeportiva> Men Team</ramaDeportiva>
+</equipo>

@@ -1,20 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- ejemplodtd1.xml -->
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="estilo ejercicio-ii-1a-dtd.css" ?>
+<!-- ejercicio II 2.a.xml -->
 
 <!DOCTYPE fichero [
 		<!ELEMENT fichero (ficha+)>
-		<!ELEMENT ficha (nombre, apellido, direccion*, DUI?)>
+		<!ELEMENT ficha (nombre, apellido, NIT, carnet, DUI)>
 		<!ELEMENT nombre (#PCDATA)>
 		<!ATTLIST nombre sexo (masculino|femenino) #REQUIRED>
-            	<!ATTLIST nombre edad  CDATA  #IMPLIED>
+    <!ATTLIST nombre edad  CDATA  #IMPLIED>
 		<!ELEMENT apellido (#PCDATA)>
-		<!ELEMENT direccion (#PCDATA)>
+		<!ELEMENT NIT (#PCDATA)>
+		<!ELEMENT carnet (#PCDATA)>
 		<!ELEMENT DUI (#PCDATA)>
 		]>
+
 <fichero>
  <ficha>
-  <nombre sexo="femenino" edad="17">Angelina</nombre>
-  <apellido>Fernandez</apellido>
-  <direccion>c/Ulises, 36</direccion>
+  <nombre sexo="masculino" edad="50">Adrián</nombre>
+  <apellido>Nuñez</apellido>
+  <NIT>NIT: 123457899</NIT>
+  <carnet>Carnet: EL99066</carnet>
+  <DUI>DUI: 00000000</DUI>
+ </ficha>
+
+ <ficha>
+  <nombre sexo="femenino" edad="19">Perla</nombre>
+  <apellido>Avalos</apellido>
+  <NIT>NIT: 66666666</NIT>
+  <carnet>Carnet: AA19069</carnet>
+  <DUI>DUI: 00000000</DUI>
+ </ficha>
+
+ <ficha>
+  <nombre sexo="masculino" edad="3">Gianluca</nombre>
+  <apellido>Lapadula</apellido>
+  <NIT>NIT: 98765431</NIT>
+  <carnet>Carnet: LD35066</carnet>
+  <DUI>DUI: 00000000</DUI>
  </ficha>
 </fichero>

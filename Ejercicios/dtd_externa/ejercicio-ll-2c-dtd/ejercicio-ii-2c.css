@@ -1,4 +1,4 @@
-﻿* {display:block;}
+* {display:block;}
 nombre[sexo]::before {content: " (Genero " attr(sexo) " ) ";color:blue;font-size:3mm;}
 nombre[sexo]::after {content: " sexo: " attr(sexo);color:red;}
 

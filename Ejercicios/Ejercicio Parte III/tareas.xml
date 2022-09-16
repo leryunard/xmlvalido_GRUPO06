@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="tareas.css" ?>
 
 <!DOCTYPE equipos SYSTEM "tareas.dtd">
 <equipos id="Universidad de El Salvador">
     <grupo grupo="GT">
-        <profesor> Profesor </profesor>
+        <profesor> Balmore </profesor>
         <materia> TPI115</materia>
         <equipo>
             <numerogrupo>06</numerogrupo>
@@ -17,7 +17,7 @@
             </facultad>
             <carrera>
                 <nombre> Ingenieria de sistemas informaticos</nombre>
-                <codigo> IAI115 </codigo>
+                <codigo> ISF1000 </codigo>
             </carrera>
              <personas>
                 <coordinador sexo="M">
@@ -26,25 +26,25 @@
                     <apellido> Galdamez </apellido>
                 </coordinador>
                 <integrante sexo="F">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> PH10090 </carnet>
+                    <nombre> Keyri </nombre>
+                    <apellido> palacios </apellido>
                 </integrante>
                 <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> TD15009 </carnet>
+                    <nombre> Mauricio </nombre>
+                    <apellido> Telurio </apellido>
                 </integrante>
                 <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> MF70081</carnet>
+                    <nombre> Carlos </nombre>
+                    <apellido> Mendez </apellido>
                 </integrante>
             </personas>
         </equipo>
         
          <equipo>
-            <numerogrupo>06</numerogrupo>
+            <numerogrupo>07</numerogrupo>
             <tema> XML - DTD</tema>
             <actividad>Guia 32</actividad>
             <porcentaje>30%</porcentaje>
@@ -54,35 +54,35 @@
             </facultad>
             <carrera>
                 <nombre> Ingenieria de sistemas informaticos</nombre>
-                <codigo> IAI115 </codigo>
+                <codigo> ISF1000 </codigo>
             </carrera>
              <personas>
                 <coordinador sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> DR20006 </carnet>
+                    <nombre> Gabriel </nombre>
+                    <apellido> De la rua </apellido>
                 </coordinador>
+                <integrante sexo="M">
+                    <carnet> ZP18090 </carnet>
+                    <nombre> Gustavo </nombre>
+                    <apellido> Zabaleta </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> MP17008 </carnet>
+                    <nombre> Armando </nombre>
+                    <apellido> Martinez </apellido>
+                </integrante>
                 <integrante sexo="F">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
-                </integrante>
-                <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
-                </integrante>
-                <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> VQ16040 </carnet>
+                    <nombre> Daniela </nombre>
+                    <apellido> Vasquez </apellido>
                 </integrante>
             </personas>
         </equipo>
     </grupo>
     
     <grupo grupo="GD">
-        <profesor> Profesor </profesor>
+        <profesor> Eduardo Cañas </profesor>
         <materia> TPI115</materia>
         <equipo>
             <numerogrupo>06</numerogrupo>
@@ -95,33 +95,33 @@
             </facultad>
             <carrera>
                 <nombre> Ingenieria de sistemas informaticos</nombre>
-                <codigo> IAI115 </codigo>
+                <codigo> ISF1000 </codigo>
             </carrera>
              <personas>
-                <coordinador sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                <coordinador sexo="F">
+                    <carnet> LZ18006 </carnet>
+                    <nombre> Laura </nombre>
+                    <apellido> Lopez </apellido>
                 </coordinador>
+                <integrante sexo="M">
+                    <carnet> GT19007 </carnet>
+                    <nombre> Victor </nombre>
+                    <apellido> Garcia </apellido>
+                </integrante>
                 <integrante sexo="F">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> MO19003 </carnet>
+                    <nombre> Adriana </nombre>
+                    <apellido> Mejia </apellido>
                 </integrante>
-                <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
-                </integrante>
-                <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                <integrante sexo="F">
+                    <carnet> RS18003 </carnet>
+                    <nombre> Damaris </nombre>
+                    <apellido> Rivas </apellido>
                 </integrante>
             </personas>
         </equipo>
          <equipo>
-            <numerogrupo>06</numerogrupo>
+            <numerogrupo>07</numerogrupo>
             <tema> XML - DTD</tema>
             <actividad>Guia 32</actividad>
             <porcentaje>30%</porcentaje>
@@ -131,35 +131,35 @@
             </facultad>
             <carrera>
                 <nombre> Ingenieria de sistemas informaticos</nombre>
-                <codigo> IAI115 </codigo>
+                <codigo> ISI10001 </codigo>
             </carrera>
              <personas>
-                <coordinador sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                <coordinador sexo="F">
+                    <carnet> AL19014 </carnet>
+                    <nombre> Cristina </nombre>
+                    <apellido> Aduriz </apellido>
                 </coordinador>
                 <integrante sexo="F">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> NJ20067 </carnet>
+                    <nombre> Ashley </nombre>
+                    <apellido> Nieto </apellido>
+                </integrante>
+                <integrante sexo="F">
+                    <carnet> MT17015 </carnet>
+                    <nombre> Gabriela </nombre>
+                    <apellido> Montoya </apellido>
                 </integrante>
                 <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
-                </integrante>
-                <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> LP21034 </carnet>
+                    <nombre> Juan </nombre>
+                    <apellido> Lenin </apellido>
                 </integrante>
             </personas>
         </equipo>
     </grupo>
 
     <grupo grupo="GL">
-        <profesor> Profesor </profesor>
+        <profesor> Eduardo correas </profesor>
         <materia> TPI115</materia>
         <equipo>
             <numerogrupo>06</numerogrupo>
@@ -172,33 +172,33 @@
             </facultad>
             <carrera>
                 <nombre> Ingenieria de sistemas informaticos</nombre>
-                <codigo> IAI115 </codigo>
+                <codigo> ISI1000 </codigo>
             </carrera>
              <personas>
                 <coordinador sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> CL18001 </carnet>
+                    <nombre> Carlos  </nombre>
+                    <apellido> Castilla </apellido>
                 </coordinador>
                 <integrante sexo="F">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> VL21007 </carnet>
+                    <nombre> Johana </nombre>
+                    <apellido> Vasquez </apellido>
+                </integrante>
+                <integrante sexo="F">
+                    <carnet> BG21006 </carnet>
+                    <nombre> Reina </nombre>
+                    <apellido> Beatriz </apellido>
                 </integrante>
                 <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
-                </integrante>
-                <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> LP21037 </carnet>
+                    <nombre> Cesar </nombre>
+                    <apellido> Lopez </apellido>
                 </integrante>
             </personas>
         </equipo>
          <equipo>
-            <numerogrupo>06</numerogrupo>
+            <numerogrupo>07</numerogrupo>
             <tema> XML - DTD</tema>
             <actividad>Guia 32</actividad>
             <porcentaje>30%</porcentaje>
@@ -208,28 +208,28 @@
             </facultad>
             <carrera>
                 <nombre> Ingenieria de sistemas informaticos</nombre>
-                <codigo> IAI115 </codigo>
+                <codigo> ISI100 </codigo>
             </carrera>
              <personas>
                 <coordinador sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> SP20015 </carnet>
+                    <nombre> Hugo </nombre>
+                    <apellido> Sanchez </apellido>
                 </coordinador>
+                <integrante sexo="M">
+                    <carnet> CH18067 </carnet>
+                    <nombre> Jhony </nombre>
+                    <apellido> Caceres </apellido>
+                </integrante>
+                <integrante sexo="M">
+                    <carnet> DR21090 </carnet>
+                    <nombre> Martin </nombre>
+                    <apellido> Dueñas </apellido>
+                </integrante>
                 <integrante sexo="F">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
-                </integrante>
-                <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
-                </integrante>
-                <integrante sexo="M">
-                    <carnet> GC18090 </carnet>
-                    <nombre> Miguel </nombre>
-                    <apellido> Galdamez </apellido>
+                    <carnet> ER22004 </carnet>
+                    <nombre> Anthony </nombre>
+                    <apellido> Edward </apellido>
                 </integrante>
             </personas>
         </equipo>
